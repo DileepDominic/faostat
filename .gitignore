@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 cropdata
+dataset
+dataset/Production_Crops_E_All_Data.csv
+/dataset/Production_Crops_E_All_Data.csv
